@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tacarlisle
-- 👀 I’m interested in AWS, Scripting, Music
+- 👀 I’m interested in Broadcast Engineering, AWS, Python, GNU/Linux, and Punk Rock
 - 🌱 I’m currently learning Python, JSON, AWS
-- 💞️ I’m looking to collaborate on EBU Dynamic Media Facility Media eXchange Layer (MXL)
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on the EBU DMF Media eXchange Layer (MXL) initiative
+- 📫 How to reach me...TBD
 
 <!---
 tacarlisle/tacarlisle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
